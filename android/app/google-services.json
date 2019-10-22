@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715651337059",
+    "firebase_url": "https://wobs-f6bfc.firebaseio.com",
+    "project_id": "wobs-f6bfc",
+    "storage_bucket": "wobs-f6bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715651337059:android:6cd9e41f11bed9cc",
+        "android_client_info": {
+          "package_name": "com.jyh.weatherviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715651337059-219ecnut7cgigrds2i41mn636mk78893.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnitOLPx4rsbDWq5AVFIM70G8waMElOKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715651337059-219ecnut7cgigrds2i41mn636mk78893.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
